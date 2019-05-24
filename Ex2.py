@@ -1,3 +1,4 @@
+#sum couluns of a matrix 3x3
 matrix = [[0, 0, 0], [0, 0, 0], [0, 0, 0]]
 sum_colun = [0, 0, 0]
 for i in range(3):
